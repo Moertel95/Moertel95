@@ -7,7 +7,7 @@
 *Инженер-разработчик и исследователь: робототехника, БПЛА, компьютерное зрение, ИИ, встраиваемые системы, проектирование плат.*
 
 [![Brand](https://img.shields.io/badge/MarteLWorks-0f1419?style=flat-square&logo=hexo&logoColor=4cc2ff)](https://github.com/Moertel95)
-[![Team](https://img.shields.io/badge/DOSTI--META-Research%20Team-4cc2ff?style=flat-square)](#-research-projects)
+[![Team](https://img.shields.io/badge/DOSTI-Research%20Team-4cc2ff?style=flat-square)](#-research-projects)
 [![Location](https://img.shields.io/badge/Kazakhstan-7a6cff?style=flat-square)](#)
 [![Agent](https://img.shields.io/badge/AI%20agent-MarteLWorks%20Agent-82ffcd?style=flat-square)](https://github.com/MarteLWorks-Agent)
 
@@ -17,7 +17,7 @@
 
 ### 👋 About
 
-- 🛩️ I build **autonomous robots and UAVs** as a member of the **DOSTI-META Research Team**.
+- 🛩️ I build **autonomous robots and UAVs** as a member of the **DOSTI Research Team**.
 - 👁️ My focus is **computer vision on the edge**: robots that detect, track, follow and grasp objects on their own — for civilian applications.
 - 🔌 I design **electronics and PCBs** — development boards for radio modules and microcontrollers.
 - 🎓 I teach university courses: **robotics & mechatronics, embedded systems, 3D printing and radio communication**.
